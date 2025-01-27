@@ -3,8 +3,8 @@ import styles from "./HeroStyles.module.css";
 import heroImg from "../../assets/heroImg.jpg";
 import sun from "../../assets/sun.png";
 import moon from "../../assets/moon.png";
-import linkedinLight from "../../assets/LinkedIn-Icon-Black-Logo.wine.svg";
-import linkedinDark from "../../assets/linkedinDark.png";
+import linkedinLight from "../../assets/linkedinLight.png";
+import linkedinDark from "../../assets/linkedin-dark.svg";
 import githubLight from "../../assets/Octicons-mark-github.svg";
 import githubDark from "../../assets/githubDark.png";
 
@@ -45,7 +45,7 @@ function Hero() {
             <img src={linkedinImg} alt="LinkedIn Icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           Crafting scalable, user-focused full-stack solutions with modern
           technologies and precision
         </p>
