@@ -1,0 +1,5 @@
+.projectCard {
+    flex: 1 1 calc(25% - 25px);  /* Each card will take up 25% of the container width, minus the gap */
+    box-sizing: border-box;  /* Ensure padding/margins don't affect the width */
+    margin-top: 1rem;
+  }

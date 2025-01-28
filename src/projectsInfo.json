@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Blockchain Dashboard",
+    "description": "A tool for blockchain auditing",
+    "link": "https://github.com/franciscovieiracode/web3-blockchain-analytics",
+    "image": "../src/assets/blockchainImg.png"
+  },
+  {
+    "title": "Game Store",
+    "description": "Game Store based on Instant Gaming",
+    "link": "https://github.com/some/other-project",
+    "image": "../src/assets/gamestoreImg.png"
+  },
+  {
+    "title": "Santander Totta",
+    "description": "Online Banking based on Santander",
+    "link": "https://github.com/some/other-project",
+    "image": "../src/assets/santanderImg.png"
+  },
+  {
+    "title": "Translator Portfolio",
+    "description": "A real portolio for a video-games translator",
+    "link": "https://www.jrodriguesgameloc.com/",
+    "image": "../src/assets/10ppIkbEsTtgD.png!bw700"
+  }
+]
