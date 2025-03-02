@@ -7,7 +7,7 @@ function ProjectCard({index, project}) {
       href={project.link}
       target="_blank"
     >
-      <img className="hover" src={project.image} alt="Blockchain Analytics" />
+      <img className="hover" src={project.image} alt={project.title} />
       <h3>{project.title}</h3>
       <p>{project.description}</p>
     </a>
