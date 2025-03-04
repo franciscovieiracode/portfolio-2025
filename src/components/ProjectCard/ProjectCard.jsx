@@ -1,4 +1,3 @@
-import React from "react";
 import styles from './ProjectCardStyles.module.css'
 
 function ProjectCard({index, project}) {

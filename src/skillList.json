@@ -1,0 +1,23 @@
+[
+    {
+        "frontend": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "backend": [
+            "React",
+            "Vue.js",
+            "Angular"
+        ]
+    },
+    {
+        "tools": [
+            "Node.js",
+            "Express.js",
+            "Django"
+        ]
+    }
+]
