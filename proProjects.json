@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Preço dos Combustíveis",
+        "description": "DGEG portal to consult gas prices",
+        "link": "https://precoscombustiveis.dgeg.gov.pt/",
+        "image": "./assets/dgeg.webp"
+    },
+    {
+        "title": "jrodriguesgameloc",
+        "description": "A portolio for a video-game translator",
+        "link": "https://www.jrodriguesgameloc.com/",
+        "image": "./assets/bordertutna.jpg"
+    },
+    {
+        "title": "jfvilaboadobispo",
+        "description": "My local parish website",
+        "link": "https://www.jfvilaboadobispo.pt/",
+        "image": "./assets/vbb (1).jpg"
+    }
+]
