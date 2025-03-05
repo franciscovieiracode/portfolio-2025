@@ -1,14 +1,14 @@
 import React from "react";
 import styles from "./HeroStyles.module.css";
-import heroImg from "../../assets/heroImg.jpg";
-import sun from "../../assets/sun.png";
-import moon from "../../assets/moon.png";
-import linkedinLight from "../../assets/linkedinLight.png";
-import linkedinDark from "../../assets/linkedin-dark.svg";
-import githubLight from "../../assets/Octicons-mark-github.svg";
-import githubDark from "../../assets/githubDark.png";
+import heroImg from "../../../public/assets/heroImg.jpg";
+import sun from "../../../public/assets/sun.png";
+import moon from "../../../public/assets/moon.png";
+import linkedinLight from "../../../public/assets/linkedinLight.png";
+import linkedinDark from "../../../public/assets/linkedin-dark.svg";
+import githubLight from "../../../public/assets/Octicons-mark-github.svg";
+import githubDark from "../../../public/assets/githubDark.png";
 
-import cv from "../../assets/cv.pdf";
+import cv from "../../../public/assets/cv.pdf";
 import { useTheme } from "../ThemeContext/ThemeContext";
 
 function Hero() {

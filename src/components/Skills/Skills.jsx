@@ -1,7 +1,7 @@
 import SkillList from "../SkillList/SkillList";
 import styles from "./SkillsStyles.module.css";
-import checkImgDark from "../../assets/darkCheck.png";
-import checkImgLight from "../../assets/darkCheck2.png";
+import checkImgDark from "../../../public/assets/darkCheck.png";
+import checkImgLight from "../../../public/assets/darkCheck2.png";
 
 
 import { useTheme } from "../ThemeContext/ThemeContext";

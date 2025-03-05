@@ -1,6 +1,6 @@
 import styles from "./ProProjectsStyles.module.css";
 import ProjectCard from "../ProjectCard/ProjectCard";
-import ProjectsInfo from '../../proProjects.json'
+import ProjectsInfo from '../../../public/assets/proProjects.json'
 
 function ProProjects() {
   return (
