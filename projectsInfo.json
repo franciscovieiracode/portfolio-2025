@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Blockchain Dashboard",
+    "description": "A tool for blockchain auditing",
+    "link": "https://github.com/franciscovieiracode/web3-blockchain-analytics",
+    "image": "https://cdn.discordapp.com/attachments/805264102498893844/1346660356956880998/block.png?ex=67c8feb0&is=67c7ad30&hm=f4e7719a48139ffa93c7909297a30f12f4b3c9080aa94d45ec58ceb2ebc21d10&"
+  },
+  {
+    "title": "Real Estate Agency",
+    "description": "Portal where houses can be bought",
+    "link": "https://github.com/franciscovieiracode/RealEstateAgency",
+    "image": "https://cdn.discordapp.com/attachments/805264102498893844/1346659954206969856/realestate.webp?ex=67c8fe50&is=67c7acd0&hm=a8a83c824af9f729999103dfe23e358b42b24db9d75e70680ecad7b57654b5f8&"
+  },
+  {
+    "title": "Santander Totta",
+    "description": "Online Banking based on Santander",
+    "link": "https://github.com/franciscovieiracode/sysnovare-online-banking",
+    "image": "https://cdn.discordapp.com/attachments/805264102498893844/1346659953523425331/bankingLogo.jpeg?ex=67c8fe50&is=67c7acd0&hm=4d446130ba8edc3bb0e46db2aad2ca23d36cbc347073deaf5ff08a57318391b7&"
+  }
+]

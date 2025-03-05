@@ -1,19 +1,16 @@
 import SkillList from "../SkillList/SkillList";
 import styles from "./SkillsStyles.module.css";
-import checkImgDark from "../../../public/assets/darkCheck.png";
-import checkImgLight from "../../../public/assets/darkCheck2.png";
-
+import checkImgDark from "../../assets/darkCheck.png";
+import checkImgLight from "../../assets/darkCheck2.png";
 
 import { useTheme } from "../ThemeContext/ThemeContext";
 
-
 export default function Skills() {
-  
-      const { theme } = useTheme();
-    
-    const checkImg = theme === 'light' ? checkImgDark : checkImgLight
-  
-    return (
+  const { theme } = useTheme();
+
+  const checkImg = theme === "light" ? checkImgDark : checkImgLight;
+
+  return (
     <section id="skills" className={styles.container}>
       <h1 className="sectionTitle">Skills</h1>
       <div className={styles.skillList}>
