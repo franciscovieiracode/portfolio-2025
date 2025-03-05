@@ -8,4 +8,5 @@ export default defineConfig({
     port: 3000, // You can choose a different port if needed
   },
   plugins: [react()],
+  base: "/portfolio-2025"
 })
