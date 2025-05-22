@@ -1,5 +1,11 @@
 [
   {
+    "title": "Online Game Store",
+    "description": "Online Game Store like InstantGaming",
+    "link": "https://github.com/franciscovieiracode/game-store",
+    "image": "https://img.freepik.com/premium-vector/game-store-logo-template-design_316488-1493.jpg"
+  },
+  {
     "title": "Blockchain Dashboard",
     "description": "A tool for blockchain auditing",
     "link": "https://github.com/franciscovieiracode/web3-blockchain-analytics",
@@ -10,11 +16,5 @@
     "description": "Portal where houses can be bought",
     "link": "https://github.com/franciscovieiracode/RealEstateAgency",
     "image": "https://i.ibb.co/rG8JksSG/realestate.webp"
-  },
-  {
-    "title": "Santander Totta",
-    "description": "Online Banking based on Santander",
-    "link": "https://github.com/franciscovieiracode/sysnovare-online-banking",
-    "image": "https://i.ibb.co/h1Kgn844/banking-Logo.jpg"
   }
 ]
